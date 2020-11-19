@@ -1,3 +1,4 @@
+# following examples from course
 class Averager:
     def __init__(self):
         self.numbers = []
